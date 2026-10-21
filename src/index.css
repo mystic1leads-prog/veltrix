@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  /* Graphite — warm neutral base (no blue cast) */
+  --color-graphite-50: #faf9f7;
+  --color-graphite-100: #f4f2ef;
+  --color-graphite-200: #e6e2dd;
+  --color-graphite-300: #d2ccc4;
+  --color-graphite-400: #a49c92;
+  --color-graphite-500: #7a7268;
+  --color-graphite-600: #5c554d;
+  --color-graphite-700: #45403a;
+  --color-graphite-800: #2b2825;
+  --color-graphite-900: #1a1817;
+
+  /* Ember — signature amber accent */
+  --color-ember-50: #fff8f1;
+  --color-ember-100: #ffeedb;
+  --color-ember-200: #fed9b8;
+  --color-ember-300: #fbbc7d;
+  --color-ember-400: #f7954a;
+  --color-ember-500: #ea7314;
+  --color-ember-600: #c2560f;
+  --color-ember-700: #9e4412;
+  --color-ember-800: #803713;
+  --color-ember-900: #682f12;
+
+  --font-sans: "Inter", "Segoe UI", Arial, sans-serif;
+  --font-display: "Manrope", "Inter", "Segoe UI", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply m-0 min-w-80 bg-white font-sans text-graphite-800 antialiased;
+  }
+  button,
+  a,
+  input,
+  select,
+  textarea {
+    @apply outline-offset-4 focus-visible:outline-2 focus-visible:outline-ember-600;
+  }
+  button:not(:disabled),
+  select,
+  summary {
+    @apply cursor-pointer;
+  }
+  button:disabled {
+    @apply cursor-not-allowed;
+  }
+  ::selection {
+    @apply bg-ember-100 text-graphite-900;
+  }
+}
+
+@layer components {
+  .container-shell {
+    @apply mx-auto w-full max-w-7xl px-5 sm:px-8 lg:px-12;
+  }
+  .btn-primary {
+    @apply inline-flex min-h-12 items-center justify-center gap-2 rounded-lg bg-ember-700 px-6 py-3 text-sm font-semibold text-white transition hover:bg-ember-800 disabled:bg-graphite-200 disabled:text-graphite-500;
+  }
+  .btn-secondary {
+    @apply inline-flex min-h-12 items-center justify-center gap-2 rounded-lg border border-graphite-200 bg-white px-6 py-3 text-sm font-semibold text-graphite-800 transition hover:border-ember-300 hover:bg-ember-50;
+  }
+  .field {
+    @apply w-full rounded-lg border border-graphite-200 bg-white px-4 py-3 text-sm placeholder:text-graphite-400 focus:border-ember-500;
+  }
+  .eyebrow {
+    @apply text-[11px] font-bold uppercase tracking-[0.18em] text-ember-700;
+  }
+}

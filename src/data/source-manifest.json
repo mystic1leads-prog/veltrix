@@ -1,0 +1,245 @@
+{
+  "origin": "https://nordaxlabs.com",
+  "fetchedAt": "2026-10-21T05:25:41.718Z",
+  "count": 54,
+  "pages": [
+    {
+      "path": "/",
+      "title": "NordAxLabs – pain-free natural solutions",
+      "productIds": [
+        "5507",
+        "5552",
+        "10191",
+        "5590",
+        "5756",
+        "5540",
+        "5574",
+        "5704",
+        "5696",
+        "10189",
+        "5628"
+      ]
+    },
+    {
+      "path": "/about-us/",
+      "title": "About us – NordAxLabs",
+      "productIds": []
+    },
+    {
+      "path": "/contact-us/",
+      "title": "Contact Us – NordAxLabs",
+      "productIds": []
+    },
+    {
+      "path": "/my-account/",
+      "title": "My account – NordAxLabs",
+      "productIds": []
+    },
+    {
+      "path": "/cart/",
+      "title": "Cart – NordAxLabs",
+      "productIds": []
+    },
+    {
+      "path": "/shop/",
+      "title": "Shop – NordAxLabs",
+      "productIds": [
+        "5552",
+        "5524",
+        "5640",
+        "5636",
+        "5644",
+        "5720",
+        "5603",
+        "5598",
+        "5607",
+        "5594",
+        "5590",
+        "5748"
+      ]
+    },
+    {
+      "path": "/shop/page/2/",
+      "title": "Shop – Page 2 – NordAxLabs",
+      "productIds": [
+        "10191",
+        "5487",
+        "5468",
+        "5459",
+        "5579",
+        "5732",
+        "5664",
+        "10221",
+        "5740",
+        "5668",
+        "5712",
+        "5704"
+      ]
+    },
+    {
+      "path": "/shop/page/3/",
+      "title": "Shop – Page 3 – NordAxLabs",
+      "productIds": [
+        "5569",
+        "10193",
+        "5700",
+        "5756",
+        "5724",
+        "10220",
+        "5716",
+        "5565",
+        "5696",
+        "5676",
+        "5648",
+        "5656"
+      ]
+    },
+    {
+      "path": "/shop/page/4/",
+      "title": "Shop – Page 4 – NordAxLabs",
+      "productIds": [
+        "5652",
+        "5660",
+        "10442",
+        "5736",
+        "5692",
+        "7862",
+        "5688",
+        "7874",
+        "5744",
+        "5708",
+        "5615",
+        "5611"
+      ]
+    },
+    {
+      "path": "/shop/page/5/",
+      "title": "Shop – Page 5 – NordAxLabs",
+      "productIds": [
+        "5623",
+        "5619",
+        "5680",
+        "5584",
+        "5574",
+        "5561",
+        "5684",
+        "5548",
+        "5557",
+        "5544",
+        "5752",
+        "5672"
+      ]
+    },
+    {
+      "path": "/shop/page/6/",
+      "title": "Shop – Page 6 – NordAxLabs",
+      "productIds": [
+        "5628",
+        "5632",
+        "5530",
+        "5540",
+        "5519",
+        "5496",
+        "5728",
+        "5501",
+        "5491",
+        "5507",
+        "5515",
+        "10189"
+      ]
+    },
+    {
+      "path": "/shop/page/7/",
+      "title": "Shop – Page 7 – NordAxLabs",
+      "productIds": ["10219", "10190"]
+    },
+    {
+      "path": "/product-category/growth-hormone-boosters/",
+      "title": "Growth Hormone Boosters – NordAxLabs",
+      "productIds": [
+        "5487",
+        "5468",
+        "5459",
+        "5579",
+        "5569",
+        "5696",
+        "5548",
+        "5557",
+        "5544",
+        "5530",
+        "5540",
+        "5519"
+      ]
+    },
+    {
+      "path": "/product-category/fat-loss-diabetes/",
+      "title": "Fat Loss – NordAxLabs",
+      "productIds": [
+        "5552",
+        "5524",
+        "5603",
+        "5598",
+        "5607",
+        "5594",
+        "5590",
+        "5615",
+        "5611",
+        "5623",
+        "5619",
+        "5584"
+      ]
+    },
+    {
+      "path": "/product-category/recovery-healing/",
+      "title": "Healing – NordAxLabs",
+      "productIds": ["5640", "5636", "5644", "5628", "5632"]
+    },
+    {
+      "path": "/product-category/anti-aging-cellular-health/",
+      "title": "Anti-Aging – NordAxLabs",
+      "productIds": [
+        "5664",
+        "5668",
+        "5676",
+        "5648",
+        "5656",
+        "5652",
+        "5660",
+        "5672"
+      ]
+    },
+    {
+      "path": "/product-category/nootropics-cognitive-enhancers/",
+      "title": "Nootropics – NordAxLabs",
+      "productIds": ["5692", "5688", "5680", "5684"]
+    },
+    {
+      "path": "/product-category/libido-sexual-health/",
+      "title": "Sexual Health – NordAxLabs",
+      "productIds": ["10191", "5708", "10189"]
+    },
+    {
+      "path": "/product-category/sleep-recovery/",
+      "title": "Sleep / Recovery – NordAxLabs",
+      "productIds": [
+        "5732",
+        "10221",
+        "10193",
+        "10220",
+        "10442",
+        "10219",
+        "10190"
+      ]
+    },
+    {
+      "path": "/product-category/growth-hormone-boosters/page/2/",
+      "title": "Growth Hormone Boosters – Page 2 – NordAxLabs",
+      "productIds": ["5496"]
+    },
+    {
+      "path": "/product-category/fat-loss-diabetes/page/2/",
+      "title": "Fat Loss – Page 2 – NordAxLabs",
+      "productIds": ["5574", "5561", "5501", "5491", "5507", "5515"]
+    }
+  ]
+}
